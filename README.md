@@ -1,1 +1,6 @@
 # so-bash
+
+##PROCESOS
+
+
+##DETENER SERVICIOS
